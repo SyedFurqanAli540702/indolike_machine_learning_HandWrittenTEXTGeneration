@@ -1,6 +1,10 @@
 
 # Handwritten Text Generation Using Deep Learning
 
+
+# Author : [SyedFurqanAli](https://github.com/SyedFurqanAli540702)  
+
+
 ## 📌 Project Description  
 This project implements **Handwritten Text Generation** using **Deep Learning** techniques. It generates realistic handwritten text images from input text sequences using datasets like **IAM**, **HKR**, and **DeepWriting**.
 
@@ -53,5 +57,4 @@ Accuracy: 85%
 ## 🤝 Contributing  
 Contributions are welcome! Feel free to raise issues or submit pull requests.  
 
-## 📝 License  
-This project is licensed under the **MIT License**.  
+
