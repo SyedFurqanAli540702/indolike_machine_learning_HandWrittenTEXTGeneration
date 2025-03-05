@@ -28,10 +28,10 @@ This project implements **Handwritten Text Generation** using **Deep Learning** 
 - HKR Handwriting Dataset  
 - DeepWriting Dataset  
 
-## ⚙️ How to Run  
+## ⚙️ How to Run  https://github.com/SyedFurqanAli540702
 1. Clone the repository:  
 ```bash
-git clone https://github.com/YourUsername/Handwritten-Text-Generation.git
+git clone https://github.com/SyedFurqanAli540702/Handwritten-Text-Generation.git
 cd Handwritten-Text-Generation
 ```
 2. Install Dependencies:  
